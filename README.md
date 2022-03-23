@@ -1,7 +1,7 @@
 # Welcome to my Github👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4769txycpc3pe1lcwl2w8s6pfuwjsz3mhgy1zjfjtm&rid=giphy.gif&ct=g">
 </div>
 
 </br>
@@ -13,17 +13,17 @@
 
 ### - I'm 19 years old Frontend Developer from Viet Nam.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media4.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47gp1kh4b7foiwjdim3byjoqjhfkzy45s271gdbaoy&rid=giphy.gif&ct=g">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=ecf05e47yf80eprps4q3ztjqvtba0q4d3pz9y5e1g40op4sr&rid=giphy.gif&ct=g">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
+- ✨ Web developer
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Listening Music
+- ✨ Reading Technologies Blog
+- ✨ Researching New Technologies
+- ✨ Playing Soccer
 
 </br>
 </br>
@@ -37,18 +37,9 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" alt="HTML" width="120" hight="50">
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" alt="CSS"  width="100" hight="50">
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" alt="JavaScript" width="90" hight="50">
 </p>
 </br>
 </br>
