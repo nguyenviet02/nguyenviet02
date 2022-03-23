@@ -1,96 +1,91 @@
-# Welcome to my Github👋
-
+<body>
+<h1 align="center">~👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋~</h1>
+<br>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4769txycpc3pe1lcwl2w8s6pfuwjsz3mhgy1zjfjtm&rid=giphy.gif&ct=g">
+<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4769txycpc3pe1lcwl2w8s6pfuwjsz3mhgy1zjfjtm&rid=giphy.gif&ct=g">
 </div>
+<br>
+<br>
+<div>
+<h1 align="center"> ~ About Me ~ </h2>
 
-</br>
-</br>
-</br>
+```javascript
+class Nguyen_Viet {
+  constructor(fullname, age) {
+    this.fullname = "Nguyen Xuan Viet";
+    this.age = 19;
+  }
 
+  address() {
+    const address = "Thanh Tri, Ha Noi";
+    return address;
+  }
 
-# About ME 💬 :
+  hobbies() {
+    const hobbies = [
+      "Reading Technologies Blogs",
+      "Coding",
+      "Watching Movies",
+      "Playing Soccer",
+    ];
+    return hobbies;
+  }
+}
+```
 
-### - I'm 19 years old Frontend Developer from Viet Nam.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=ecf05e47yf80eprps4q3ztjqvtba0q4d3pz9y5e1g40op4sr&rid=giphy.gif&ct=g">
-
-### - Learning :
-- ✨ Web developer
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Listening Music
-- ✨ Reading Technologies Blog
-- ✨ Researching New Technologies
-- ✨ Playing Soccer
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" alt="HTML" width="120" hight="50">
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" alt="CSS"  width="100" hight="50">
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" alt="JavaScript" width="90" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
+</div>
+<div>
+<h1 align="center">~ 📇 Knowledge 📇 ~</h1> <br>
 <p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
-1
+</div>
+<div>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> <br> 
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+  <br><br>
+</p>
+<br>
+<pre>
+         ┌──┤ <font size="7">Project</font>  ├───────▰▰▰ 
+         │
+         ├─◈ <a href="https://nguyenviet02.github.io/My_Profile/"><font size="5">My Profile</font></a>
+         ├─◈ <a href="https://nguyenviet02.github.io/tiktok-clone/"><font size="5">TikTok Clone</font></a>
+         │
+         └───────────────────────────────▰▰▰
+</pre>
+<h1  align="center">📝 ~ Contact Me ~ 📝</h1>
+<br>
+<p align="center">
+  <a href="https://www.facebook.com/nguyenviet02" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge"/>
+  </a> 
+  <a href="https://www.instagram.com/viet_nguyen_02" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e5ad02?logo=instagram&logoColor=FCF87F&style=for-the-badge"/>
+  </a> 
+  <a href="https://github.com/nguyenviet02" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-1e1e1c?logo=github&logoColor=ffffff&style=for-the-badge"/>
+  </a> 
+  <br/>
+  <a href="https://t.me/vietnguyen1712" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-67b2ea?logo=telegram&logoColor=ffffff&style=for-the-badge"/>
+  </a> 
+  <a href="https://discordapp.com/users/7466" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-329ff2?logo=discord&logoColor=ffffff&style=for-the-badge"/>
+  </a> 
+</p>
+</div>
+<br>
+<div>
+<h2 align="center"> ~ Thanks for visiting ~ </h2>
+<div align="center">
+<img src="https://media3.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif">
+</div>
+<hr>
+</div>
+</div>
+</body>
