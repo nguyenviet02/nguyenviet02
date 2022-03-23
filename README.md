@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Welcome to my Github👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -11,9 +11,9 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 19 years old Frontend Developer from Viet Nam.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media4.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47gp1kh4b7foiwjdim3byjoqjhfkzy45s271gdbaoy&rid=giphy.gif&ct=g">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
