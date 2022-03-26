@@ -55,6 +55,7 @@ class Nguyen_Viet {
          │
          ├─◈ <a href="https://nguyenviet02.github.io/My_Profile/"><font size="5">My Profile</font></a>
          ├─◈ <a href="https://nguyenviet02.github.io/tiktok-clone/"><font size="5">TikTok Clone</font></a>
+         ├─◈ <a href="https://nguyenviet02.github.io/luxury-restaurant/"><font size="5">Luxury Restaurant</font></a>
          │
          └───────────────────────────────▰▰▰
 </pre>
