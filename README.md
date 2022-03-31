@@ -50,7 +50,6 @@ class Nguyen_Viet {
   <br><br>
 </p>
 <br>
-  <h1  align="center"💻 ~ Contact Me ~ 💻</h1>
 <pre>
          ┌──┤ <font size="7">Project</font>  ├───────▰▰▰ 
          │
