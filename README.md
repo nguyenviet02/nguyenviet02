@@ -32,7 +32,7 @@ class Nguyen_Viet {
   }
 }
 ```
-
+<br>
 </div>
 <div>
 <h1 align="center">~ 📇 Knowledge 📇 ~</h1> <br>
@@ -50,6 +50,7 @@ class Nguyen_Viet {
   <br><br>
 </p>
 <br>
+<h1 align="center">~💻 Projects 💻~</h1> <br>
 <pre>
          ┌──┤ <font size="7">Project</font>  ├───────▰▰▰ 
          │
@@ -59,6 +60,7 @@ class Nguyen_Viet {
          │
          └───────────────────────────────▰▰▰
 </pre>
+<br>
 <h1  align="center">📝 ~ Contact Me ~ 📝</h1>
 <br>
 <p align="center">
@@ -87,6 +89,5 @@ class Nguyen_Viet {
 <img src="https://media3.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif">
 </div>
 <hr>
-</div>
 </div>
 </body>
