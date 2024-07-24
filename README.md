@@ -13,7 +13,7 @@
 class Nguyen_Viet {
   constructor(fullname, age) {
     this.fullname = "Nguyen Xuan Viet";
-    this.age = 19;
+    this.age = 22;
   }
 
   address() {
