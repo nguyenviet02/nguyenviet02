@@ -13,11 +13,11 @@
 class Nguyen_Viet {
   constructor(fullname, age) {
     this.fullname = "Nguyen Xuan Viet";
-    this.age = 22;
+    this.age = 23;
   }
 
   address() {
-    const address = "Thanh Tri, Ha Noi";
+    const address = "Thanh Xuan, Ha Noi";
     return address;
   }
 
